@@ -95,7 +95,8 @@ namespace WpfApp_Калькулятор_ГКР
         private void Button12_Click(object sender, RoutedEventArgs e)
         {
             textBox1.Text = textBox1.Text + "*";
-             }
+            
+        }
 
         private void Button16_Click(object sender, RoutedEventArgs e)
         {
@@ -109,7 +110,13 @@ namespace WpfApp_Калькулятор_ГКР
 
         private void Button1_Click(object sender, RoutedEventArgs e)
         {
+            textBox1.Text = "";
             
         }
+
+      
+        
+
+        }
     }
-}
+

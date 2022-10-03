@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="Button1" Content="C" HorizontalAlignment="Left" Margin="151,106,0,0" VerticalAlignment="Top" Width="75" Height="37" Click="Button1_Click"/>
-        <Button x:Name="Button2" Content="()" HorizontalAlignment="Left" Margin="262,106,0,0" VerticalAlignment="Top" Width="75" Height="37"/>
+        <Button x:Name="Button2" Content="()" HorizontalAlignment="Left" Margin="262,106,0,0" VerticalAlignment="Top" Width="75" Height="37" Click="Button2_Click"/>
         <Button x:Name="Button3"  Content="+/-" HorizontalAlignment="Left" Margin="382,106,0,0" VerticalAlignment="Top" Width="75" Height="37"/>
         <Button x:Name="Button4" Content="+" HorizontalAlignment="Left" Margin="507,106,0,0" VerticalAlignment="Top" Width="75" Height="37" Click="Button4_Click"/>
         <Button x:Name="Button5"  Content="7" HorizontalAlignment="Left" Margin="152,168,0,0" VerticalAlignment="Top" Width="75" Height="38" Click="Button5_Click"/>
